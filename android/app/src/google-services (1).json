@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907537191015",
+    "project_id": "ocrflutter-f4b9a",
+    "storage_bucket": "ocrflutter-f4b9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907537191015:android:c5511878c6edcc3383c4c2",
+        "android_client_info": {
+          "package_name": "com.example.ocr_ios_yara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907537191015-59dp68ho4uvrrjut9841t9eiq6i5ustn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUEdKeXBy_Rh3FYIiSwIJvLG4NMVsJLRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907537191015-59dp68ho4uvrrjut9841t9eiq6i5ustn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
